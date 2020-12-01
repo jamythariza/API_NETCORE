@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>estimador.api</name>
+    </assembly>
+    <members>
+        <member name="M:estimador.api.Controllers.ProductoController.Get">
+            <summary>
+             
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:estimador.api.Controllers.ProductoController.Post(estimador.Application.Productos.Commands.CreateProductoCommand)">
+            <summary>
+            
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
